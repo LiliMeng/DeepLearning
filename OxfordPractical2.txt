@@ -1,0 +1,30 @@
+2. to compute the predictions for
+the following test dataset of three observations and two input features (fertilizer and
+insecticide):
+dataTest = torch.Tensor{
+{6, 4},
+{10, 5},
+{14, 8}
+}
+What are the values of the three parameters? What happens to the parameters and
+predictions when the number of epochs is either 1e3 (1 × 103
+) or 1e5 (1 × 105
+)? Hand in
+the answers to these questions.
+
+
+id  approx   text	
+ 1   40.09  40.32	
+ 2   43.88  42.92	
+ 3   49.89  45.33	
+ 
+ 1e3:
+ id  approx  
+ 1   33.31 
+ 2   40.41 
+ 3   47.04  
+ 
+id  approx   text	
+ 1   40.32  40.32	
+ 2   44.03  42.92	
+ 3   49.96  45.33	
