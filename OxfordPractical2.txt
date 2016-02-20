@@ -28,3 +28,15 @@ id  approx   text
  1   40.32  40.32	
  2   44.03  42.92	
  3   49.96  45.33	
+ 
+ 
+3. Implement the least squares solution θ = (XT X)
+−1XT y using the same dataset. What
+are the predictions for the above test set? How do they compare to the predictions of
+the linear neuron trained with SGD? How do the parameters compare? Hand in your
+answers.
+No regularizer 
+ 18.2182
+ 34.7773
+ 46.0400
+
