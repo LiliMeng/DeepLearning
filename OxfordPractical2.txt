@@ -35,8 +35,9 @@ id  approx   text
 are the predictions for the above test set? How do they compare to the predictions of
 the linear neuron trained with SGD? How do the parameters compare? Hand in your
 answers.
-No regularizer 
- 18.2182
- 34.7773
- 46.0400
+Final Answer
+ 40.3204
+ 44.0305
+ 49.9603
+
 
